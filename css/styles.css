@@ -1,0 +1,28 @@
+.container {
+    width:70%;
+    margin:auto
+}
+
+img {
+    width: 150px;
+    height:auto;
+    float:left;
+    padding:1em;
+}
+
+body {
+    font-size: 24px;
+}
+
+p {
+    padding-bottom: 1em;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 115%;
+}
+
+dd {
+    margin-left: 0;
+}
